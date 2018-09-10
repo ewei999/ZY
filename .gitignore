@@ -64,3 +64,25 @@ __recovery/
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
+f1.ico
+frmRegister.dfm
+Pro_KuCun.res
+Pro_KuCun.skincfg
+Unit_caigou_shenqing_new.dfm
+Unit_login.pas
+frmRegister.pas
+Pro_KuCun.dpr
+Encode.pas
+Pro_KuCun.dproj
+Pro_KuCun_Icon1.ico
+Unit_DM.pas
+Unit_login.dfm
+Unit_caigou_shenqing_new.pas
+Unit_DM.dfm
+Unit_main.dfm
+Unit_main.pas
+Unit_public.pas
+Pro_KuCun_Icon2.ico
+Pro_KuCun_Icon.ico
+Win32/Debug/config.ini
+Win32/Debug/update.txt
